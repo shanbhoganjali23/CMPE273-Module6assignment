@@ -1,0 +1,2 @@
+NAME                ENDPOINTS                     AGE
+inventory-service   10.1.0.8:8080,10.1.0.9:8080   130m

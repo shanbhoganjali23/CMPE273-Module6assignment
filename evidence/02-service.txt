@@ -1,0 +1,2 @@
+NAME                TYPE        CLUSTER-IP       EXTERNAL-IP   PORT(S)    AGE
+inventory-service   ClusterIP   10.100.104.161   <none>        8080/TCP   130m

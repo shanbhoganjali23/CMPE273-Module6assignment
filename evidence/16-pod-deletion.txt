@@ -1,0 +1,1 @@
+pod "inventory-9cbc747cb-jkdp9" deleted from default namespace
